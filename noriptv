@@ -1,52 +1,11 @@
-#EXTM3U8
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) Disney Channel
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29923.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) DISNEY XD
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29922.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) E! Entertainment TV Nordic
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29921.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) Fatstone.TV
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29915.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) FEM
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29914.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) Hope Channel Norge
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29913.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) Kanal 10 Norge
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29912.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) Max HD
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29911.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) MTV Norge
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29910.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) Nick JR.
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29909.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) Nickelodeon Norway
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29908.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) NRK 1
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29907.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) NRK 2
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29906.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) NRK3
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29905.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) Stortinget
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29904.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) TV 2 Nyhetskanalen HD
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29903.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) TV 2 Sportskanalen HD
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29902.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) TV Haugaland
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29901.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) TV Norge
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29900.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) TV Visjon Norge
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29899.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) TV10 Norge
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29898.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) TV2 Humor
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29897.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) TV2 Norge
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29896.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) TV2 Zebra
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29892.ts
+group,+ Lust - Permanent Playlist
+ext,+ Lust,https://bit.ly/fluxusfish?.m3u8
+
+group,- Update: 10.04.2019
+ext,- Update: 10.04.2019,https://bit.ly/fluxusfish?.m3u8
+
+group,24/7 IPTV
+ext,A3Bikini TV (New!),https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",(NO) TV3 Norge
 http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29891.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",(NO) TV6 Norge
