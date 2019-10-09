@@ -1,17 +1,2 @@
-group,+ Lust - Permanent Playlist
-ext,+ Lust,https://bit.ly/fluxusfish?.m3u8
-
-group,- Update: 10.04.2019
-ext,- Update: 10.04.2019,https://bit.ly/fluxusfish?.m3u8
-
-group,24/7 IPTV
 ext,A3Bikini TV (New!),https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) TV3 Norge
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29891.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) TV6 Norge
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29890.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) Viasat 4
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29889.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",(NO) Vox Norway
-http://137.74.205.182:8080/live/Paulmay/JqkJRDnaWY/29888.ts
 
