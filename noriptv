@@ -1,11 +1,4 @@
-#EXTM3U
-#EXTINF:-1,AR| AL AOULA HD
-http://line.protv.cc:8000/live/tNxE4rdouh/ttqs53nnsu/7625.m3u8
-#EXTINF:-1,AR| 2M MAROC
-http://line.protv.cc:8000/live/tNxE4rdouh/ttqs53nnsu/6736.m3u8
-#EXTINF:-1,AR| ARRYIADIA LIVE HD
-http://line.protv.cc:8000/live/tNxE4rdouh/ttqs53nnsu/7624.m3u8
-#EXTINF:-1,AR| ARRABIAA HD
+
 http://line.protv.cc:8000/live/tNxE4rdouh/ttqs53nnsu/7623.m3u8
 #EXTINF:-1,AR| AL MAGHRABIA HD
 http://line.protv.cc:8000/live/tNxE4rdouh/ttqs53nnsu/7619.m3u8
@@ -17894,271 +17887,359 @@ http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82385.avi
 #EXTINF:-1,San Andreas Mega Quake
 http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82384.avi
 #EXTINF:-1,Saints and Soldiers ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82383.avi
-#EXTINF:-1,Cadena perpetua
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82382.avi
-#EXTINF:-1,Ralph rompe Internet
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82381.avi
-#EXTINF:-1,Prospect ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82380.avi
-#EXTINF:-1,Point Blank: cuenta atrás
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82379.avi
-#EXTINF:-1,Podrás perdonarme algún día
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82378.avi
-#EXTINF:-1,Mercy ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82377.avi
-#EXTINF:-1,Perros de batalla
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82376.avi
-#EXTINF:-1,Parchís: el documental
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82375.avi
-#EXTINF:-1,Secret Obsession ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82374.avi
-#EXTINF:-1,Nostromo: David Lean's Impossible Dream
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82373.avi
-#EXTINF:-1,Nosotros los Nobles
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82372.avi
-#EXTINF:-1,Noctem ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82371.avi
-#EXTINF:-1,Noche de juegos
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82370.avi
-#EXTINF:-1,Nancy Drew y la Escalera Escondida
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82369.avi
-#EXTINF:-1,Muévete, esto es Nueva York
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82368.avi
-#EXTINF:-1,Morir para contar
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82367.avi
-#EXTINF:-1,Miss Bala ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82366.avi
-#EXTINF:-1,Mil palabras
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82365.avi
-#EXTINF:-1,Los Vengadores 4 Endgame
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82364.avi
-#EXTINF:-1,Leonardo El Hombre Universal
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82363.avi
-#EXTINF:-1,Mortadelo y Filemón. Misión: Salvar la Tierra
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82362.avi
-#EXTINF:-1,La Llorona ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82361.avi
-#EXTINF:-1,La abeja Maya: Los juegos de la miel
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82360.avi
-#EXTINF:-1,John Wick: Capítulo 3 - Parabellum
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82359.avi
-#EXTINF:-1,Jesse Stone: Lost in Paradise
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82358.avi
-#EXTINF:-1,Sé infiel y no mires con quién
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82357.avi
-#EXTINF:-1,Hellboy ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82356.avi
-#EXTINF:-1,Hellboy II: El ejército dorado
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82355.avi
-#EXTINF:-1,Hacia Un Planeta Verde La Transicion Energetica
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82354.avi
-#EXTINF:-1,Háblame de ti
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82353.avi
-#EXTINF:-1,Godzilla: Rey de los monstruos
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82352.avi
-#EXTINF:-1,Fight to the Finish
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82351.avi
-#EXTINF:-1,Feedback ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82350.avi
-#EXTINF:-1,Este muerto está muy vivo 2
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82349.avi
-#EXTINF:-1,Escape Room ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82348.avi
-#EXTINF:-1,El Ente
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82347.avi
-#EXTINF:-1,En las estrellas ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82346.avi
-#EXTINF:-1,El viaje de Fanny ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82345.avi
-#EXTINF:-1,El secuestro de Stella
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82344.avi
-#EXTINF:-1,El fotógrafo de Mauthausen ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82343.avi
-#EXTINF:-1,El desentierro ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82342.avi
-#EXTINF:-1,El señor de las bestias
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82341.avi
-#EXTINF:-1,El Nioo Que Pudo Ser Rey
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82340.avi
-#EXTINF:-1,El Hombre que mató a Hitler y después al Bigfoot
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82339.avi
-#EXTINF:-1,El hijo ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82338.avi
-#EXTINF:-1,El Hijo de Bigfoot
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82337.avi
-#EXTINF:-1,El Gordo y el Flaco (Stan & Ollie)
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82336.avi
-#EXTINF:-1,El desafío ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82335.avi
-#EXTINF:-1,El Canto Del Lobo
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82334.avi
-#EXTINF:-1,El caballero de las sombras
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82333.avi
-#EXTINF:-1,El Atomo y Nosotros
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82332.avi
-#EXTINF:-1,Dumbo
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82331.avi
-#EXTINF:-1,Dolor y gloria
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82330.avi
-#EXTINF:-1,Dirt ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82329.avi
-#EXTINF:-1,De tonta, nada
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82328.avi
-#EXTINF:-1,Cuestión de karma
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82327.avi
-#EXTINF:-1,Crypto
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82326.avi
-#EXTINF:-1,Corgi, las mascotas de la reina
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82325.avi
-#EXTINF:-1,Clase
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82324.avi
-#EXTINF:-1,Cementerio de animales
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82323.avi
-#EXTINF:-1,El cadáver de Anna Fritz
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82322.avi
-#EXTINF:-1,Bomb City
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82321.avi
-#EXTINF:-1,Bohemian Rhapsody ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82320.avi
-#EXTINF:-1,Bienvenidos a Marwen
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82319.avi
-#EXTINF:-1,Beyond White Space ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82318.avi
-#EXTINF:-1,Beautiful boy, siempre serás mi hijo
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82317.avi
-#EXTINF:-1,Beast (esp)
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82316.avi
-#EXTINF:-1,Asesinato en Reunión
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82315.avi
-#EXTINF:-1,Asesinato Por Amor
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82314.avi
-#EXTINF:-1,Ártico
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82313.avi
-#EXTINF:-1,Amityville: El despertar
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82312.avi
-#EXTINF:-1,American Justice ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82311.avi
-#EXTINF:-1,Alita: Ángel de combate
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82310.avi
-#EXTINF:-1,Alita: Battle Angel (es)
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82309.avi
-#EXTINF:-1,Aliens: El regreso
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82308.avi
-#EXTINF:-1,Alien, el octavo pasajero
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82307.avi
-#EXTINF:-1,Al final de la escalera
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82306.avi
-#EXTINF:-1,8 Days: To the Moon and Back ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82305.avi
-#EXTINF:-1,70 Binladens
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82304.avi
-#EXTINF:-1,4 latas ES
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82303.avi
-#EXTINF:-1,24 horas para vivir
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82302.avi
-#EXTINF:-1,15:17 Tren a París
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82301.avi
-#EXTINF:-1,12 trampas
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82300.avi
-#EXTINF:-1,NL - LE GRAND BAIN 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82130.mkv
-#EXTINF:-1,NL - SKIN 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82129.mkv
-#EXTINF:-1,NL - GENERAL COMMANDER 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82128.mkv
-#EXTINF:-1,NL - CRYPTO 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82127.mkv
-#EXTINF:-1,NL - ASSIMILATE 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82126.mkv
-#EXTINF:-1,NL - WHITE SUN 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82028.mkv
-#EXTINF:-1,NL - UP AND AWAY 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82027.mkv
-#EXTINF:-1,NL - UGLYDOLLS 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82026.mkv
-#EXTINF:-1,NL - TOLKIEN 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82025.mkv
-#EXTINF:-1,NL - THE SON 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82024.mkv
-#EXTINF:-1,NL - THE QUEENS CORGI 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82023.mkv
-#EXTINF:-1,NL - THE LEGO MOVIE 2 THE SECOND PART 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82022.mkv
-#EXTINF:-1,NL - ORGANIZE ISLER: SAZAN SARMALI 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82021.mkv
-#EXTINF:-1,NL - MARIA 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82020.mkv
-#EXTINF:-1,NL - LEGO DC BATMAN FAMILY MATTERS 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82019.mkv
-#EXTINF:-1,NL - HOE WORD IK EEN VIKING 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82018.mkv
-#EXTINF:-1,NL - GUESTS THE GATE TO HELL 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82017.mkv
-#EXTINF:-1,NL - GODZILLA: KING OF THE MONSTERS 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82016.mkv
-#EXTINF:-1,NL - GODZILLA KING OF THE MONSTERS HD
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82015.mkv
-#EXTINF:-1,NL - GIRLS WITH BALLS 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82014.mkv
-#EXTINF:-1,NL - FURIE 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82013.mkv
-#EXTINF:-1,NL - FIVE FEET APART 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82012.mkv
-#EXTINF:-1,NL - CRITTERS ATTACK 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82011.mkv
-#EXTINF:-1,NL - BATMAN HUSH 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82010.mkv
-#EXTINF:-1,NL - ASHES IN THE SNOW 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/82009.mkv
-#EXTINF:-1,NL - NL - THE INTRUDER 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/80672.mkv
-#EXTINF:-1,NL - MEN IN BLACK INTERNATIONAL 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/80671.mkv
-#EXTINF:-1,NL - TRESPASSERS 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/80506.mkv
-#EXTINF:-1,NL - BORU 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/80505.mkv
-#EXTINF:-1,NL - JET PILOT
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/80130.mkv
-#EXTINF:-1,NL - NORM OF THE NORTH: KING SIZED ADVENTURE 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/80129.avi
-#EXTINF:-1,NL - THE CURSE OF LA LLORONA 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79721.mkv
-#EXTINF:-1,NL - POINT BLANK 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79688.mkv
-#EXTINF:-1,NL - KIDNAPPING STELLA 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79687.mkv
-#EXTINF:-1,NL - DIRTY GOD 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79686.mkv
-#EXTINF:-1,NL - CITIES OF LAST THINGS 2019
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79684.mkv
-#EXTINF:-1,Maşa ile Koca Ayı Sonsuz Arkadaşlık 2018 Yerli 1080i HDTV H264 MPA - HdT
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79676.mkv
-#EXTINF:-1,DE - peration 12 Strong (2018)
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79654.mkv
-#EXTINF:-1,DE - Zombies! Überlebe die Untoten
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79653.mkv
-#EXTINF:-1,DE - Das Wunder von Bern
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79652.mkv
-#EXTINF:-1,DE - Wolf Creek 2
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79651.mkv
-#EXTINF:-1,DE - Wir töten Stella
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79650.mkv
-#EXTINF:-1,DE - Wir lieben das Leben
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79649.mkv
-#EXTINF:-1,DE - Der große Trip - Wild
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79648.mkv
-#EXTINF:-1,DE - Western
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79647.mkv
-#EXTINF:-1,DE - Wer ist Daddy?
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79646.mkv
-#EXTINF:-1,DE - Wann endlich küsst Du mich?
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79645.mkv
-#EXTINF:-1,DE - orwärts immer!
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79644.mkv
-#EXTINF:-1,DE - Voll verschleiert
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79643.mkv
-#EXTINF:-1,DE - Vengeance - Pfad der Vergeltung
-http://line.protv.cc:8000/movie/tNxE4rdouh/ttqs53nnsu/79642.mkv
+http://line.pro#EXTINF:0,=======>   Sweden   <=======
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34780.ts
+#EXTINF:0,SE: Viasat Sport Premium HD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34880.ts
+#EXTINF:0,SE: Viasat Sport Premium
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/30578.ts
+#EXTINF:0,SE: Viasat Sport HD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34846.ts
+#EXTINF:0,SE: Viasat Series
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34845.ts
+#EXTINF:0,SE: Viasat Nature/Crime/Playboy
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34844.ts
+#EXTINF:0,SE: Viasat Nature
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34879.ts
+#EXTINF:0,SE: Viasat Motor
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34843.ts
+#EXTINF:0,SE: Viasat Hockey HD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34898.ts
+#EXTINF:0,SE: Viasat Hockey
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34897.ts
+#EXTINF:0,SE: Viasat History
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34842.ts
+#EXTINF:0,SE: Viasat Golf HD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34788.ts
+#EXTINF:0,SE: Viasat Golf
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34841.ts
+#EXTINF:0,SE: Viasat Fotboll HD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34896.ts
+#EXTINF:0,SE: Viasat Fotboll
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34895.ts
+#EXTINF:0,SE: Viasat Film Premiere
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34840.ts
+#EXTINF:0,SE: Viasat Film Hits
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34839.ts
+#EXTINF:0,SE: Viasat Film Family
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34838.ts
+#EXTINF:0,SE: Viasat Film Comedy
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34837.ts
+#EXTINF:0,SE: Viasat Film Action
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34836.ts
+#EXTINF:0,SE: Viasat Explore
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34835.ts
+#EXTINF:0,SE: Viasat 4
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34834.ts
+#EXTINF:0,SE: VH1 Europe/Nick Jr
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34787.ts
+#EXTINF:0,SE: VH-1
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34878.ts
+#EXTINF:0,SE: TV8
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34833.ts
+#EXTINF:0,SE: TV6
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34832.ts
+#EXTINF:0,SE: TV4 Sport
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34864.ts
+#EXTINF:0,SE: TV4 HD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34786.ts
+#EXTINF:0,SE: TV4 Guld
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34877.ts
+#EXTINF:0,SE: TV4 Film
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34831.ts
+#EXTINF:0,SE: TV4 FHD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34894.ts
+#EXTINF:0,SE: TV4 Fakta XL
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34789.ts
+#EXTINF:0,SE: TV4 Fakta
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34799.ts
+#EXTINF:0,SE: TV4
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34876.ts
+#EXTINF:0,SE: TV3 HD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34785.ts
+#EXTINF:0,SE: TV3
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34830.ts
+#EXTINF:0,SE: TV2 Sportskanalen HD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34850.ts
+#EXTINF:0,SE: TV2 Sportkanalen
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34875.ts
+#EXTINF:0,SE: TV12
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34829.ts
+#EXTINF:0,SE: TV10
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34784.ts
+#EXTINF:0,SE: TV 8
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34790.ts
+#EXTINF:0,SE: TV 6
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34791.ts
+#EXTINF:0,SE: TV 4 Komedi
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34792.ts
+#EXTINF:0,SE: TV 4 Guld
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34793.ts
+#EXTINF:0,SE: TV 4 Film
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34794.ts
+#EXTINF:0,SE: TV 4
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34795.ts
+#EXTINF:0,SE: TV 3
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34796.ts
+#EXTINF:0,SE: TV 12
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34797.ts
+#EXTINF:0,SE: TV 10
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34798.ts
+#EXTINF:0,SE: Travel Channel
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34828.ts
+#EXTINF:0,SE: TNT
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34874.ts
+#EXTINF:0,SE: TLC
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34827.ts
+#EXTINF:0,SE: TCM
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34826.ts
+#EXTINF:0,SE: SVTB/SVT24
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34825.ts
+#EXTINF:0,SE: SVT2
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34824.ts
+#EXTINF:0,SE: SVT1 HD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34873.ts
+#EXTINF:0,SE: SVT1
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34823.ts
+#EXTINF:0,SE: Sjuan
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34783.ts
+#EXTINF:0,SE: SF Kanalen
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34863.ts
+#EXTINF:0,SE: Nicktoons
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34872.ts
+#EXTINF:0,SE: Nickelodeon
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34847.ts
+#EXTINF:0,SE: NELONEN PRIME
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34806.ts
+#EXTINF:0,SE: NELONEN MAALIMA
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34805.ts
+#EXTINF:0,SE: Nelonen
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34804.ts
+#EXTINF:0,SE: National Geographic
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34822.ts
+#EXTINF:0,SE: Nat Geo Wild
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34862.ts
+#EXTINF:0,SE: MTV
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34871.ts
+#EXTINF:0,SE: Motorsport.TV HD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34861.ts
+#EXTINF:0,SE: Kunskapskanalen HD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34870.ts
+#EXTINF:0,SE: Kunskapskanalen
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34821.ts
+#EXTINF:0,SE: Kanal 9
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34782.ts
+#EXTINF:0,SE: Kanal 5
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34820.ts
+#EXTINF:0,SE: Kanal 11
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34781.ts
+#EXTINF:0,SE: Investigation Discovery
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34860.ts
+#EXTINF:0,SE: Horse & Country TV
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34854.ts
+#EXTINF:0,SE: Fox
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34819.ts
+#EXTINF:0,SE: Eurosport 2 FHD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34893.ts
+#EXTINF:0,SE: EUROSPORT 2
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34859.ts
+#EXTINF:0,SE: Eurosport 1 HD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34858.ts
+#EXTINF:0,SE: Eurosport 1
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34869.ts
+#EXTINF:0,SE: E!
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34857.ts
+#EXTINF:0,SE: Disney XD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34856.ts
+#EXTINF:0,SE: Disney Junior
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34848.ts
+#EXTINF:0,SE: Disney Channel
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34818.ts
+#EXTINF:0,SE: Discovery World
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34855.ts
+#EXTINF:0,SE: Discovery Science
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34868.ts
+#EXTINF:0,SE: Discovery Channel
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34817.ts
+#EXTINF:0,SE: Comedy Central
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34816.ts
+#EXTINF:0,SE: CNN
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34867.ts
+#EXTINF:0,SE: Cartoon Network
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34866.ts
+#EXTINF:0,SE: Canal Estrellas
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34865.ts
+#EXTINF:0,SE: C More Stars HD ( SE )
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34808.ts
+#EXTINF:0,SE: C More Stars
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34882.ts
+#EXTINF:0,SE: C More Sport
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34881.ts
+#EXTINF:0,SE: C More Series FHD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34892.ts
+#EXTINF:0,SE: C More Series
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34815.ts
+#EXTINF:0,SE: C More Live 4 HD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34853.ts
+#EXTINF:0,SE: C More Live 4
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34891.ts
+#EXTINF:0,SE: C More Live 3 HD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34852.ts
+#EXTINF:0,SE: C More Live 3
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34890.ts
+#EXTINF:0,SE: C More Live 2 HD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34849.ts
+#EXTINF:0,SE: C More Live 2
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34889.ts
+#EXTINF:0,SE: C More Live 1 HD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34851.ts
+#EXTINF:0,SE: C More Live
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34888.ts
+#EXTINF:0,SE: C More Hockey
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34814.ts
+#EXTINF:0,SE: C More Hits
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34813.ts
+#EXTINF:0,SE: C More Golf HD ( SE )
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34807.ts
+#EXTINF:0,SE: C More Golf
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34812.ts
+#EXTINF:0,SE: C More Fotboll
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34887.ts
+#EXTINF:0,SE: C More First
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34811.ts
+#EXTINF:0,SE: C More Emotion
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34810.ts
+#EXTINF:0,SE: C More Action
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34809.ts
+#EXTINF:0,SE: Boomerang
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34886.ts
+#EXTINF:0,SE: BBC Earth
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34885.ts
+#EXTINF:0,SE: BBC Brit
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34884.ts
+#EXTINF:0,SE: Animal Planet
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/34883.ts
+#EXTINF:0,=======>   Denmark  <=======
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33317.ts
+#EXTINF:0,DK: TV3 MAX
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/35436.ts
+#EXTINF:0,DK: TV2 Nyhetskanalen
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/35169.ts
+#EXTINF:0,DK: TV2 FHD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/35438.ts
+#EXTINF:0,DK: TV2 charlie
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/35437.ts
+#EXTINF:0,DK: TV 2 NEWS
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/35070.ts
+#EXTINF:0,DK: Kanal 10 Norge
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/35167.ts
+#EXTINF:0,DK: DR2 HD
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/35435.ts
+#EXTINF:0,DK: DR 3
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/35434.ts
+#EXTINF:0,DK: VIASAT SERIES
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33376.ts
+#EXTINF:0,DK: VIASAT NATURE
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33375.ts
+#EXTINF:0,DK: VIASAT HISTORY
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33370.ts
+#EXTINF:0,DK: VIASAT GOLF
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33369.ts
+#EXTINF:0,DK: VIASAT FOTBOLL
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33368.ts
+#EXTINF:0,DK: VIASAT FILM FAMILY
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33365.ts
+#EXTINF:0,DK: VIASAT FILM ACTION
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33363.ts
+#EXTINF:0,DK: VIASAT EXPLORE
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33362.ts
+#EXTINF:0,DK: VFILM PREMIER
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33360.ts
+#EXTINF:0,DK: VFILM ACTION
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33371.ts
+#EXTINF:0,DK: TV3 SPORT 2
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33346.ts
+#EXTINF:0,DK: TV3 SPORT 1
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33356.ts
+#EXTINF:0,DK: TV3 Puls
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33373.ts
+#EXTINF:0,DK: TV3
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33386.ts
+#EXTINF:0,DK: TV2 Zulu
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33374.ts
+#EXTINF:0,DK: TV2 News
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33383.ts
+#EXTINF:0,DK: TV2 Fri
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33382.ts
+#EXTINF:0,DK: TV 6
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33352.ts
+#EXTINF:0,DK: TV 3 SPORT 2
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33350.ts
+#EXTINF:0,DK: TV 2 ZULU
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33347.ts
+#EXTINF:0,DK: TV 2 ZEBRA
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33351.ts
+#EXTINF:0,DK: TV 2 SPORT
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33357.ts
+#EXTINF:0,DK: TV 2 LORRY
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33387.ts
+#EXTINF:0,DK: TV 2 FRI
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33343.ts
+#EXTINF:0,DK: TV 2 CHARLIE
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33341.ts
+#EXTINF:0,DK: SVT 2
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33388.ts
+#EXTINF:0,DK: NRK 1
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33340.ts
+#EXTINF:0,DK: National Geographic
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33335.ts
+#EXTINF:0,DK: Kanal TV5
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33381.ts
+#EXTINF:0,DK: KANAL 9
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33339.ts
+#EXTINF:0,DK: KANAL 5
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33337.ts
+#EXTINF:0,DK: Kanal 4
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33385.ts
+#EXTINF:0,DK: Investigation Discovery
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33342.ts
+#EXTINF:0,DK: DR1
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33379.ts
+#EXTINF:0,DK: DR ULTRA
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33336.ts
+#EXTINF:0,DK: DR RAMASJANG
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33334.ts
+#EXTINF:0,DK: DR K
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33333.ts
+#EXTINF:0,DK: DR 2
 
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33372.ts
+#EXTINF:0,DK: Disney Channel (D)
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33331.ts
+#EXTINF:0,DK: DISNEY CHANNEL
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33328.ts
+#EXTINF:0,DK: COMEDY CENTRAL
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33325.ts
+#EXTINF:0,DK: CARTOON NETWORK
+http://iptvnetwork.link:25461/liv/tRDtym0PmU/VJGJc5Hj2G/33323.ts
+#EXTINF:0,DK: CANAL 9 DK
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33327.ts
+#EXTINF:0,DK: C More Sport
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33320.ts
+#EXTINF:0,DK: C More Live
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33321.ts
+#EXTINF:0,DK: C MORE HITS
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33345.ts
+#EXTINF:0,DK: C ore Fotboll
+http://iptvnetwork.link:25461/live/RDtym0PmU/VJGJc5Hj2G/33359.ts
+#EXTINF:0,DK: C More First
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33329.ts
+#EXTINF:0,DK: C More Emotion
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33319.ts
+#EXTINF:0,DK: 6 Eren
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33324.ts
+#EXTINF:0,DK: 3 Plus
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33378.ts
+#EXTINF:0,DK:  Nat Geo
+http://iptvnetwork.link:25461/live/tRDtym0PmU/VJGJc5Hj2G/33326.ts
+#EXTINF:0,DK : VIASAT SPORT
